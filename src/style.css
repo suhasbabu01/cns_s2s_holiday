@@ -390,6 +390,9 @@ header.scrolled {
 @font-face {
     font-family: 'Clarendon Narrow';
     src: local('Clarendon Narrow'),
+         url('./fonts/Clarendon Regular.otf') format('opentype'),
+         url('../fonts/Clarendon Regular.otf') format('opentype'),
+         url('/CNSholiday/fonts/Clarendon Regular.otf') format('opentype'),
          url('/cns_s2s_holiday/fonts/Clarendon Regular.otf') format('opentype'),
          url('/fonts/Clarendon Regular.otf') format('opentype');
     font-weight: normal;
